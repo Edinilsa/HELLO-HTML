@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Edinilsa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Projeto Desenvolve - Itabira
 
-<!---
-Edinilsa/Edinilsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📚 Disciplina
+**Introdução à Programação Web**
+
+## 🎓 Curso
+Realizado na cidade de **Itabira**, como parte do **Projeto Desenvolve**.
+
+## 🆔 Matrícula
+**PD788**
+
+---
+
+Este repositório foi criado com o objetivo de acompanhar as atividades e projetos desenvolvidos ao longo da disciplina de *Introdução à Programação Web*, promovida pelo Projeto Desenvolve em Itabira.
